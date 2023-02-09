@@ -1,1 +1,1 @@
-This project is about Git, how to commit, create branches, merge branches as well as pull updates
+My readme file for 0x03-git directory
